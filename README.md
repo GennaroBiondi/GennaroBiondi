@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome to my profile</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ReduxTheCoder&label=Profile%20views&color=0e75b6&style=flat" alt="ReduxTheCoder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GennaroBiondi&label=Profile%20views&color=0e75b6&style=flat" alt="GennaroBiondi" /> </p>
 
 - Italian
 
